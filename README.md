@@ -78,7 +78,7 @@ We couldn't have that.
 _How is this temporal?_
 --
 
-_next_ is an operator in temporal logic. Therefore, since Cosmos™ has a _next_ keyword, it is part of the temporal logic paradigm. Thus, it's not only logic-functional but _temporal logic-functional._
+_next_ is an operator in temporal logic. This is something Cosmos™ incorporates by having a _next_ keyword. Therefore, it is part of the temporal logic paradigm. Thus, it's not only logic-functional but _temporal logic-functional._
 
 _That's just imperative programming!?_
 --
