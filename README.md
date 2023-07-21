@@ -66,6 +66,8 @@ It follows the prototypal approach to OOP, except that the dictionary used for i
 
 Incidentally, that's also how it's prototypal.
 
+An OOP enthusiast may note that we could still make more things objects, although, it might become less procedural as a result.
+
 _Why not classical OOP?_
 --
 
