@@ -1,4 +1,9 @@
-Why?
+
+![tictacgame](https://github.com/cosmos-lang/Logic-Functional-Object-Oriented-Prototypal-Temporal-Tictactoe/assets/109587668/0b8ae787-c41c-4496-ad99-b1fec4300609)
+
+_Written in logic-functional object-oriented programming._
+
+Why?!
 --
 
 It needs no further reason or explanation. This is,
@@ -8,7 +13,7 @@ It needs no further reason or explanation. This is,
 
 This application marks an advance in multiparadigm programming language design and theory.
 
-After all, it's probably the _first_ time tictactoe (or for that matter any graphical application) has been made in at least three of the _main four_ paradigms (and then a few others),
+After all, it's probably the first time tictactoe (or for that matter any graphical application) has been made in at least three of the _main four_ paradigms (and then a few others),
 
 - Logic programming.
 - Functional programming.
